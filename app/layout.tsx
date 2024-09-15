@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   other: {
     'theme-color': '#AC8435',
     'color-scheme': 'light only',
-    // 'og:image': '',
+    'og:image': 'https://cdn.dribbble.com/userupload/16592827/file/original-fefc7b09b9c0825f8202142853af216f.png?resize=850x850',
     'og:type': 'website',
   }
 };
